@@ -1,0 +1,16 @@
+# Nuxt
+.nuxt
+.output
+.data
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules
+*.log
+npm-debug.log*
+.DS_Store
+.cursorrules
+.cursor
+
