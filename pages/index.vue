@@ -145,7 +145,7 @@ const burstHearts = Array.from({ length: 18 }, (_, i) => {
             :style="{ '--credits-end': creditsEndPx + 'px' }"
           >
             <p class="whitespace-pre-line">
-              Three years with you have filled my life with more love, laughter, and adventure than I ever imagined possible. You breathed life back into me and turned every moment — from our picnics to our travels — into something beautiful. You make every season feel like home, every day like an adventure, and every touch (even your little bites) a reminder of your love.
+              Three years with you have filled my life with more love, laughter, and adventure than I ever imagined possible. You breathed life back into me and turned every moment from our picnics to our travels into something beautiful. You make every season feel like home, every day like an adventure, and every touch (even your little bites) a reminder of your love.
 
               You are my heart, my peace, my greatest blessing. I love you more deeply than words can say.
             </p>
