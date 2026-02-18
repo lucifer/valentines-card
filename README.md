@@ -1,6 +1,6 @@
 # Valentine Card
 
-A cozy "Will you be my Valentine?" single-page card built with Nuxt 3 and Tailwind CSS.
+A cozy pet project "Will you be my Valentine?" single-page scrolly message built with Nuxt 3 and Tailwind CSS. Wrote it for my better half, she loved it btw.
 
 ## Setup
 
